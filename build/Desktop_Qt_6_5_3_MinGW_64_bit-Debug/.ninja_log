@@ -1,0 +1,13 @@
+# ninja log v7
+4	2605	7943916918824592	AAcat_UI_autogen/timestamp	cc4a2338b6c12d1e
+4	2605	7943916918824592	AAcat_UI_autogen/mocs_compilation.cpp	cc4a2338b6c12d1e
+4	2605	7943916918824592	D:/newsoft/Qt/AIMew/AAcat_UI/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/AAcat_UI_autogen/timestamp	cc4a2338b6c12d1e
+4	2605	7943916918824592	D:/newsoft/Qt/AIMew/AAcat_UI/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/AAcat_UI_autogen/mocs_compilation.cpp	cc4a2338b6c12d1e
+2615	5797	7943916920095454	CMakeFiles/AAcat_UI.dir/main.cpp.obj	ba8380b971bf297b
+2610	5958	7943916920045448	CMakeFiles/AAcat_UI.dir/AAcat_UI_autogen/mocs_compilation.cpp.obj	7deaa896836c8827
+37	236	7943917055040095	AAcat_UI_autogen/timestamp	cc4a2338b6c12d1e
+37	236	7943917055040095	AAcat_UI_autogen/mocs_compilation.cpp	cc4a2338b6c12d1e
+37	236	7943917055040095	D:/newsoft/Qt/AIMew/AAcat_UI/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/AAcat_UI_autogen/timestamp	cc4a2338b6c12d1e
+37	236	7943917055040095	D:/newsoft/Qt/AIMew/AAcat_UI/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/AAcat_UI_autogen/mocs_compilation.cpp	cc4a2338b6c12d1e
+238	3235	7943917057046965	CMakeFiles/AAcat_UI.dir/widget.cpp.obj	d8ef03b64a011e82
+3236	3637	7943917087029801	AAcat_UI.exe	2ae50d44f1eda876
